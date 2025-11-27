@@ -1,0 +1,5 @@
+git clone "url
+__________________
+git add
+git commit
+git push
